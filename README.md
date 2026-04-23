@@ -30,6 +30,8 @@ I believe that technical mastery is found in the details. My repositories reflec
 - **[jeremywood-digital](https://github.com/magcargoj/jeremywood-digital)**: My live portfolio and "Sentinel" design system.
 - **[ancestry-data-forensics](https://github.com/magcargoj/ancestry-data-forensics)**: Applying forensic data aggregation to genealogy and archival research.
 - **[handheld-storage-optimizer](https://github.com/magcargoj/handheld-storage-optimizer)**: Data-driven storage allocation utility for handheld devices.
+- **[flight-intelligence-engine](https://github.com/magcargoj/flight-intelligence-engine)**: Automated Python engine for high-value travel discovery.
+- **[forensic-security-audit](https://github.com/magcargoj/forensic-security-audit)**: Comprehensive security remediation and technical audit of legacy systems.
 
 ---
 
