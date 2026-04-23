@@ -28,7 +28,6 @@ A custom Model Context Protocol (MCP) server that allows AI agents to interface 
 ### 🕵️ Technical Forensics & Research
 I believe that technical mastery is found in the details. My repositories reflect a deep-seated interest in how systems work under the hood:
 - **[jeremywood-digital](https://github.com/magcargoj/jeremywood-digital)**: My live portfolio and "Sentinel" design system.
-- **[butano](https://github.com/magcargoj/butano)**: Research into performant, low-level system design.
 - **[wood-family-history](https://github.com/magcargoj/wood-family-history)**: Applying forensic data aggregation to genealogy and archival research.
 
 ---
